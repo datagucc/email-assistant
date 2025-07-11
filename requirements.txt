@@ -1,0 +1,13 @@
+pandas
+argparse
+python-dotenv
+openai
+#faiss #Facebook AI Similarity Search
+scikit-learn
+sentence-transformers
+langdetect
+openpyxl
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+bs4

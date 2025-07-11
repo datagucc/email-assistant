@@ -1,0 +1,7 @@
+Config/
+Data/
+Docu/
+email_venv/
+RAG/
+Exploration/
+.env
